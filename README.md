@@ -2,7 +2,7 @@
 
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 
-CoreGraphicsExt is my personal CoreGraphics toolbox which completes missing some conveniences.
+CoreGraphicsExt is my personal CoreGraphics toolbox which completes some missing conveniences.
 
 ## What This Library Extends With
 
